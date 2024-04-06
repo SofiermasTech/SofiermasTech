@@ -11,8 +11,7 @@
 - **Ищу работу**. [Мое резюме](https://stary-oskol.hh.ru/resume/40756ed3ff0cf25dc00039ed1f566c39576733)
 
 ### 💬 Контакты
-- <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=292828" alt="Twitter">  </a>
+- [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/Sofierma)
 - <a href="mailto:sofiermas.tech@gmail.com" mailto="Volserma@yandex.ru" target="_blank" >
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=292828" alt="Gmail"></a> 
 
