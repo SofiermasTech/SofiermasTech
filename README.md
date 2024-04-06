@@ -25,14 +25,14 @@
 
 ### 💼 Интересные проекты
 
-<a href="https://github.com/SofiermasTech/movies-explorer-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiermasTech&repo=movies-explorer-frontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=292828" />
-</a>
-
-<a href="https://github.com/SofiermasTech/Dostaver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiermasTech&repo=Dostaver&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=292828" />
+<a href="https://github.com/SofiermasTech/ToDo-list">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiermasTech&repo=ToDo-list&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=292828" />
 </a>  
 
 <a href="https://github.com/SofiermasTech/mesto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiermasTech&repo=mesto&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=292828" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiermasTech&repo=mesto&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=292828" />
+</a>
+
+<a href="https://github.com/SofiermasTech/movies-explorer-frontend">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=SofiermasTech&repo=movies-explorer-frontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=292828" />
 </a>
