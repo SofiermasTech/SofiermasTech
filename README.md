@@ -8,15 +8,16 @@
 - В 2023 закончила курс Веб-разработчика в ЯП.
 - Не люблю спешить. Люблю плавность и структурированную последовательность действия.
 - Любимая фраза: "Ну если подумать логически..."
-- **Ищу работу**. [Мое резюме](https://stary-oskol.hh.ru/resume/40756ed3ff0cf25dc00039ed1f566c39576733)
 
+<!-- 
 ### 💬 Контакты
 - [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/Sofierma)
 - <a href="mailto:sofiermas.tech@gmail.com" mailto="Volserma@yandex.ru" target="_blank" >
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=292828" alt="Gmail"></a> 
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=292828" alt="Gmail"></a>  
 
-  <br />
+  
 ### 📈 Статистика
 <a href="https://github.com/SofiermasTech/SofiermasTech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiermasTech&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=292828&langs_count=3" />
 </a>
+-->
